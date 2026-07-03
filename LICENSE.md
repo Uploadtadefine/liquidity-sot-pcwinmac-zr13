@@ -1,4 +1,4 @@
-# 
+# Personnalisé liquidity sniper bot extensions pour Mac OS | Nouveau liquidity sniper bot extensions pour PC Windows. Avec intégration du routeur DEX et détection de la taxe de vente — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
